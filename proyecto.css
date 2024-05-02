@@ -322,7 +322,7 @@ h5{
 
 .category-moca {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('Img/holaa.jpg');
+		url();
 	background-size: cover;
 	background-position: bottom;
 	background-repeat: no-repeat;
@@ -330,7 +330,7 @@ h5{
 
 .category-capuchino {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('img/capuchino-category.jpg');
+		url();
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -338,7 +338,7 @@ h5{
 
 .category-expreso {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('img/expreso-category.jpg');
+		url();
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
